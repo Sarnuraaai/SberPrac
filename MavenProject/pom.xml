@@ -10,8 +10,7 @@
     <modules>
         <module>base</module>
         <module>oop</module>
-        <module>Exceptions</module>
-        <module>unit-tests</module>
+        <module>exceptions</module>
     </modules>
     <dependencies>
         <dependency>
