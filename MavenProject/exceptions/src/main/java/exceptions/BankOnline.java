@@ -6,7 +6,7 @@ import java.util.List;
 
 public class BankOnline {
 
-    private final List<String> blockedCards = Arrays.asList(
+    private static final List<String> blockedCards = Arrays.asList(
             "1111111111111111",
             "2222222222222222",
             "3333333333333333"
