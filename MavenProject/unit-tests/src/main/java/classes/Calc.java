@@ -8,13 +8,13 @@ public class Calc {
         checker = check;
     }
 
-    public double add(double first_number, double second_number) {
-        return first_number + second_number;
+    public double add(double firstNumber, double secondNumber) {
+        return firstNumber + secondNumber;
     }
 
-    public double divide(double first_number, double second_number) {
-        if (checker.zeroArgument(second_number)) {
-            return first_number / second_number;
+    public double divide(double firstNumber, double secondNumber) {
+        if (checker.zeroArgument(secondNumber)) {
+            return firstNumber / secondNumber;
         }
         throw new ArithmeticException("Попытка деления на нуль!");
     }
