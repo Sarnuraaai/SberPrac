@@ -12,6 +12,11 @@
         <module>oop</module>
         <module>exceptions</module>
         <module>unit-tests</module>
+        <module>generics</module>
+        <module>annotations</module>
+        <module>lambdas</module>
+        <module>streams</module>
+        <module>miltithreading</module>
     </modules>
     <dependencies>
         <dependency>
@@ -43,7 +48,6 @@
             <scope>test</scope>
         </dependency>
 
-        <!-- https://mvnrepository.com/artifact/org.projectlombok/lombok -->
         <dependency>
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
