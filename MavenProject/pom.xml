@@ -12,7 +12,9 @@
         <module>oop</module>
         <module>exceptions</module>
         <module>unit-tests</module>
-	<module>reflection</module>
+	      <module>reflection</module>
+        <module>lambdas</module>
+        <module>streams</module>
     </modules>
     <dependencies>
         <dependency>
