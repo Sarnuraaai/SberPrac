@@ -12,6 +12,8 @@
         <module>oop</module>
         <module>exceptions</module>
         <module>unit-tests</module>
+        <module>generics</module>
+        <module>annotations</module>
     </modules>
     <dependencies>
         <dependency>
