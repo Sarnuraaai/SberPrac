@@ -12,6 +12,7 @@
         <module>oop</module>
         <module>exceptions</module>
         <module>unit-tests</module>
+        <module>miltithreading</module>
     </modules>
     <dependencies>
         <dependency>
