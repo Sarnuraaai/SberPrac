@@ -1,5 +1,5 @@
 package lambdas;
 
 public interface Sounding {
-    public void sound();
+    public String sound();
 }

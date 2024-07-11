@@ -3,7 +3,7 @@ package lambdas;
 public class CatSound implements Sounding {
 
     @Override
-    public void sound() {
-        System.out.println("Meow");
+    public String sound() {
+        return "Meow";
     }
 }
