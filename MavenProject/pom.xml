@@ -13,6 +13,7 @@
         <module>exceptions</module>
         <module>unit-tests</module>
         <module>lambdas</module>
+        <module>streams</module>
     </modules>
     <dependencies>
         <dependency>
