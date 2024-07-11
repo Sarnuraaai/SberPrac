@@ -1,5 +1,7 @@
 package fourth;
 
-@NewInheritedAnnotation(day = 1)
+import first.InheritedAnnotation;
+
+@InheritedAnnotation(day = 1)
 public class InheritedAnnotatedClass {
 }

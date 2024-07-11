@@ -1,9 +1,10 @@
 package fourth;
 
 import fifth.NewRepeatableAnnotation;
+import first.InheritedAnnotation;
 import third.DataContainer;
 
-@NewInheritedAnnotation(day = 2)
+@InheritedAnnotation(day = 2)
 public class InheritedClass3 extends InheritedAnnotatedClass{
 
     @NewRepeatableAnnotation(id = 1, name = "Igor", onDuty = false)
